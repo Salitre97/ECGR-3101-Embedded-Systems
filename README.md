@@ -13,9 +13,11 @@ Lab03:
 Seven segment display train loop. Using ssd from grove booster pack.
 
 Lab04:
--
+i-
 Trip-wire alarm.  Using ultrasonic sensor from the grove booster pack.
 
 Lab05:
 -
 Use a variable resistor (potentiometer) as a game controller for a python-written game.  
+
+HELLOOOO
