@@ -19,5 +19,3 @@ Trip-wire alarm.  Using ultrasonic sensor from the grove booster pack.
 Lab05:
 -
 Use a variable resistor (potentiometer) as a game controller for a python-written game.  
-
-HELLOOOO
